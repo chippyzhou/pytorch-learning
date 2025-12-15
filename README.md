@@ -24,7 +24,7 @@
 
 在学习过程中参考的教程和文档：
 
-* [Deep Learning with PyTorch: A 60 Minute Blitz]([https://pytorch.org/docs/stable/index.html](https://docs.pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html))
+* [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 
 
 ---
