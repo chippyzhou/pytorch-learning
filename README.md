@@ -13,9 +13,9 @@
 
 | 日期 | 学习主题 | 核心知识点 / 备注 | 对应文件 |
 | :--- | :--- | :--- | :--- |
-| 2025.12.13 | **Day 01: Tensor&Autograd** | PyTorch 安装, Conda 环境, Tensor 的创建与基本运算 | [12.13-12.15_notes.md](./notes/12.13-12.15_notes.md) |
-| 2025.12.14 | **Day 02: 自动求导 (Autograd)** | `requires_grad`, 计算图, `.backward()` 原理 | [02_autograd.ipynb](./notes/autograd.md) |
-| 2025.12.15 | **Day 03: 线性回归** | 手动实现梯度下降 vs 使用 `nn.Linear` | [03_linear_regression.py](./code/03_lr.py) |
+| 2025.12.13 | **Day 01: Tensor&Autograd** | The conception and using of **Tensor and Autograd** | [12.13-12.15_notes.md](./notes/12.13-12.15_notes.md) |
+| 2025.12.14 | **Day 02: nn.Module&forward&backward** | The conception and using of **nn.Module&forward&backward** | [12.13-12.15_notes.md](./notes/12.13-12.15_notes.md) |
+| 2025.12.15 | **Day 03: Training a Classifier** | Implemented a simple classifier. | [Lab1_Simple_Classifier.ipynb](./code/Lab1_Simple_Classifier.ipynb) |
 | ... | ... | ... | ... |
 
 *(在此处添加新的行以更新日志)*
@@ -55,9 +55,9 @@
 ## 📝 待办事项 (To-Do List)
 
 - [x] 完成 Tensor 基础学习
-- [ ] 搞懂反向传播原理
-- [ ] 实现一个简单的 CNN (卷积神经网络)
-- [ ] 复现一个经典的论文模型 (如 ResNet)
+- [x] 搞懂反向传播原理
+- [x] 实现一个简单的 CNN (卷积神经网络)
+- [ ] 实现一个情感分类器
 
 ---
-*Last updated: 2025-12-14*
+*Last updated: 2025-12-15*
