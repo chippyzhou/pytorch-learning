@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 > 这是一个用于记录我学习 PyTorch 深度学习框架的仓库。
-> 这里存放了我的**学习笔记**、**代码练习**以及**遇到的 Bug 解决方案**。
+> 这里存放了我的**学习笔记**和**代码练习**。
 
 ---
 
@@ -18,9 +18,17 @@
 | 2025.12.15 | **Day 03: Training a Classifier** | Implemented a simple classifier. | [Lab1_Simple_Classifier.ipynb](./code/Lab1_Simple_Classifier.ipynb) |
 | ... | ... | ... | ... |
 
-*(在此处添加新的行以更新日志)*
+---
+
+## 📚 参考资料 (References)
+
+在学习过程中参考的教程和文档：
+
+* [Deep Learning with PyTorch: A 60 Minute Blitz]([https://pytorch.org/docs/stable/index.html](https://docs.pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html))
+
 
 ---
+
 
 ## 📂 仓库结构 (Structure)
 
@@ -37,20 +45,8 @@
 └── README.md              # 项目主页
 ```
 
-## 🛠️ 快速开始 (Getting Started)
+---
 
-如果你想运行本仓库的代码，请确保安装了以下环境：
-
-1.  **克隆仓库**
-    ```bash
-    git clone [https://github.com/你的用户名/你的仓库名.git](https://github.com/你的用户名/你的仓库名.git)
-    cd 你的仓库名
-    ```
-
-2.  **安装依赖**
-    ```bash
-    pip install torch torchvision numpy matplotlib
-    ```
 
 ## 📝 待办事项 (To-Do List)
 
