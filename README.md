@@ -13,9 +13,9 @@
 
 | 日期 | 学习主题 | 核心知识点 / 备注 | 对应文件 |
 | :--- | :--- | :--- | :--- |
-| 2025.12.14 | **Day 01: 环境配置与 Tensor** | PyTorch 安装, Conda 环境, Tensor 的创建与基本运算 | [01_tensor_basic.py](./code/01_tensor_basic.py) |
-| 2025.12.15 | **Day 02: 自动求导 (Autograd)** | `requires_grad`, 计算图, `.backward()` 原理 | [02_autograd.ipynb](./notes/autograd.md) |
-| 2025.12.16 | **Day 03: 线性回归** | 手动实现梯度下降 vs 使用 `nn.Linear` | [03_linear_regression.py](./code/03_lr.py) |
+| 2025.12.13 | **Day 01: Tensor&Autograd** | PyTorch 安装, Conda 环境, Tensor 的创建与基本运算 | [12.13-12.15_notes.md](./notes/12.13-12.15_notes.md) |
+| 2025.12.14 | **Day 02: 自动求导 (Autograd)** | `requires_grad`, 计算图, `.backward()` 原理 | [02_autograd.ipynb](./notes/autograd.md) |
+| 2025.12.15 | **Day 03: 线性回归** | 手动实现梯度下降 vs 使用 `nn.Linear` | [03_linear_regression.py](./code/03_lr.py) |
 | ... | ... | ... | ... |
 
 *(在此处添加新的行以更新日志)*
